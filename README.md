@@ -4,7 +4,7 @@
 
 #Note, the final output of all of the samples and the read counts from the two lanes (demultiplexed and mapped using the same CEL-Seq pipeline) compiled into the counting reports used for downstream analyses.
 
-"ampQue1_ERCC92_trimmed.fa" - Location of fasta file used to generate bowtie2 index for read mapping
+"ampQue1_ERCC92_trimmed.fa" - Location of fasta file used to generate bowtie2 index for read mapping. This file is too large to be uploaded to github but has previously been published online in Sogabe, Shunsuke et al. (2019). File available from: Pluripotency and the origin of animal multicellularity, Dryad, Dataset, https://doi.org/10.5061/dryad.hp2fr73
 
 "Aqu2.1_lncRNAs_ERCC_trimmed.gff3" - Gene coordinate file for the Aqu2.1 gene models
 
