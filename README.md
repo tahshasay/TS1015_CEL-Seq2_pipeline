@@ -3,7 +3,9 @@
 
 #These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
 
-#Samples were prepared according to the CEL-Seq2 protocol (Hashimshony et al., 2016). CEL-Seq2 reads were processed using a publicly available pipeline (https://github.com/yanailab/CEL-Seq-pipeline). This folder contains additional supplementary data, specifcally the files and scripts used to process the sequences obtained by CEL-Seq2. 
+#Samples were prepared according to the CEL-Seq2 protocol (Hashimshony et al., 2016). 
+
+#CEL-Seq2 reads were processed using a publicly available pipeline that was developed by the Yanai Lab School of Medicine, New York University https://yanailab.org; the package and instructions are available at https://github.com/yanailab/CEL-Seq-pipeline and see our customised script and data listed below. This pipeline is distributed under the GPLv3 license allowing others to further customise.
 
 #Note, the final output of all of the samples and the read counts from the two lanes (demultiplexed and mapped using the same CEL-Seq pipeline) compiled into the counting reports used for downstream analyses.
 
