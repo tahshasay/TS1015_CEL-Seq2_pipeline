@@ -1,5 +1,10 @@
 # TS1015_CEL-Seq2_pipeline
 
+
+########################################################################################################################################
+#This repository is supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+########################################################################################################################################
+
 #Samples were prepared according to the CEL-Seq2 protocol (Hashimshony et al., 2016). CEL-Seq2 reads were processed using a publicly available pipeline (https://github.com/yanailab/CEL-Seq-pipeline). This folder contains additional supplementary data, specifcally the files and scripts used to process the sequences obtained by CEL-Seq2. 
 
 #Note, the final output of all of the samples and the read counts from the two lanes (demultiplexed and mapped using the same CEL-Seq pipeline) compiled into the counting reports used for downstream analyses.
