@@ -19,6 +19,7 @@
 "TS1015_SampleSheet.tab" - sample sheet file (L001) used as the input for the demultiplexing
 
 
-Reference
+References
 Hashimshony, T., Senderovich, N., Avital, G., Klochendler, A., de Leeuw, Y., Anavy, L., . . . Yanai, I. (2016). CEL-Seq2: sensitive highly-multiplexed single-cell RNA-Seq. Genome Biology, 17(1), 1-7. doi:10.1186/s13059-016-0938-8
 
+Sogabe, S., Hatleberg, W. L., Kocot, K. M., Say, T. E., Stoupin, D., Roper, K. E., . . . Degnan, B. M. (2019). Pluripotency and the origin of animal multicellularity. Nature, 570(7762), 519-522. doi:10.1038/s41586-019-1290-4
