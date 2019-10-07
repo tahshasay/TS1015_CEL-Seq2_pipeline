@@ -1,7 +1,11 @@
 # TS1015_CEL-Seq2_pipeline
 
 
-#These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+#These data and scripts are supplement to:
+
+Say & Degnan (in 1st review) Molecular and behavioural evidence that interdependent photo- and chemo-sensory systems regulate larval settlement in a marine sponge. Molecular Ecology. 
+
+A preprint is available at: Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
 
 #Samples were prepared according to the CEL-Seq2 protocol (Hashimshony et al., 2016). 
 
